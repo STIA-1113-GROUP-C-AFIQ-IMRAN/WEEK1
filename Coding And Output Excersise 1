@@ -1,0 +1,88 @@
+package excersises1;
+
+public class PrintCheckPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("* * * * *");
+		System.out.println(" * * * * *");
+		System.out.println("* * * * *");
+		System.out.println(" * * * * *");
+		System.out.println("* * * * *");
+
+	}
+
+}
+
+* * * * *
+ * * * * *
+* * * * *
+ * * * * *
+* * * * *
+
+
+package excersises1;
+
+public class PrintSquarePatern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("* * * * *");
+		System.out.println("*       *");
+		System.out.println("*       *");
+		System.out.println("*       *");
+		System.out.println("* * * * *");
+
+	}
+
+}
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+
+package excersises1;
+
+public class PrintTriangularPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("* * * * *");
+		System.out.println(" *     *");
+		System.out.println("  *   *");
+		System.out.println("   * *");
+		System.out.println("    *");
+
+	}
+
+}
+
+* * * * *
+ *     *
+  *   *
+   * *
+    *
+    
+    
+package excersises1;
+
+public class PrintStarPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("    *");
+		System.out.println("* *   * *");
+		System.out.println("   * *");
+		System.out.println("  *   *");
+		System.out.println(" *     *");
+	}
+}
+
+    *
+* *   * *
+   * *
+  *   *
+ *     *
